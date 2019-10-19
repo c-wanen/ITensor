@@ -37,6 +37,7 @@
 #include "itensor/mps/sites/hubbard.h"
 #include "itensor/mps/sites/spinless.h"
 #include "itensor/mps/sites/tj.h"
+#include "itensor/mps/sites/dbtj.h"
 #include "itensor/mps/sites/Z3.h"
 
 #endif
