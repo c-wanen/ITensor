@@ -2,8 +2,8 @@
 // Distributed under the ITensor Library License, Version 1.2
 //    (See accompanying LICENSE file.)
 //
-#ifndef __ITENSOR_TJ_H
-#define __ITENSOR_TJ_H
+#ifndef __ITENSOR_DBTJ_H
+#define __ITENSOR_DBTJ_H
 #include "itensor/mps/siteset.h"
 
 namespace itensor {
